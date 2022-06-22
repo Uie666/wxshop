@@ -1,13 +1,4 @@
-# 萤火小程序商城（YoShop）
 
-
-#### 项目介绍
-萤火小程序商城，是一款开源的电商系统，为中小企业提供最佳的新零售解决方案。采用稳定的MVC框架开发，执行效率、扩展性、稳定性值得信赖。
-
-#### 项目演示
-- 官网地址：[https://www.yiovo.com/](https://www.yiovo.com/)
-- 后台演示：[https://yoshop.xany6.com/](https://yoshop.xany6.com/)
-- QQ交流群：1055189864
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/0727/210807_271acafd_597459.jpeg "gh_a376934c7da8_344.jpg")
 
@@ -28,9 +19,5 @@
 - PHP5.4+
 - MySQL5.1+
 
-建议使用环境：Linux + Nginx1.14 + PHP7.1 + MySQL5.6
-
-
-#### 安全&缺陷
-如果你发现了一个安全漏洞，请发送邮件到 developer@yiovo.com。所有的安全漏洞都将及时得到解决。
+建议使用环境：Linux + Nginx1.14 + PHP7.1 + MySQL5.
 
