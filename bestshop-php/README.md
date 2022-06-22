@@ -1,7 +1,5 @@
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0727/210807_271acafd_597459.jpeg "gh_a376934c7da8_344.jpg")
-
 #### 项目截图
 ![输入图片说明](https://gitee.com/uploads/images/2018/0629/144738_39b279a7_597459.png "前端.png")
 
